@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/powpfv1/static/css/main.a18bf719.css",
+    "main.css": "/powpfv1/static/css/main.3e22d570.css",
     "main.js": "/powpfv1/static/js/main.e8eb47c4.js",
     "static/media/PaulJoshuaEsguerra_CV.pdf": "/powpfv1/static/media/PaulJoshuaEsguerra_CV.9bb5744d51a16eddd7e4.pdf",
     "static/media/cd3.png": "/powpfv1/static/media/cd3.b1b6227b51ee3015885a.png",
@@ -52,11 +52,11 @@
     "static/media/landing_abtme.svg": "/powpfv1/static/media/landing_abtme.d0ae7904ce5b6c229e16.svg",
     "static/media/loaderbg.svg": "/powpfv1/static/media/loaderbg.ecd64540ef796af578bc.svg",
     "static/media/socialsbg.svg": "/powpfv1/static/media/socialsbg.cb1ff0f2e204b2e5bf14c469b2a85f81.svg",
-    "main.a18bf719.css.map": "/powpfv1/static/css/main.a18bf719.css.map",
+    "main.3e22d570.css.map": "/powpfv1/static/css/main.3e22d570.css.map",
     "main.e8eb47c4.js.map": "/powpfv1/static/js/main.e8eb47c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.a18bf719.css",
+    "static/css/main.3e22d570.css",
     "static/js/main.e8eb47c4.js"
   ]
 }
