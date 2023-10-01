@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/powpfv1/static/css/main.42e5f184.css",
-    "main.js": "/powpfv1/static/js/main.bc2c2ad6.js",
+    "main.css": "/powpfv1/static/css/main.a18bf719.css",
+    "main.js": "/powpfv1/static/js/main.e8eb47c4.js",
+    "static/media/PaulJoshuaEsguerra_CV.pdf": "/powpfv1/static/media/PaulJoshuaEsguerra_CV.9bb5744d51a16eddd7e4.pdf",
     "static/media/cd3.png": "/powpfv1/static/media/cd3.b1b6227b51ee3015885a.png",
     "static/media/4d.png": "/powpfv1/static/media/4d.26b62520705cd83a6f59.png",
     "static/media/cd.png": "/powpfv1/static/media/cd.dba20dcc92dfe4fdb117.png",
@@ -45,16 +46,17 @@
     "static/media/6a.png": "/powpfv1/static/media/6a.6939fea44c7fe76f2a92.png",
     "static/media/6b.png": "/powpfv1/static/media/6b.254a977802058ca297e2.png",
     "static/media/skillstyle1.svg": "/powpfv1/static/media/skillstyle1.d8dcfb00574a6ff5df50.svg",
+    "static/media/dl_cv.svg": "/powpfv1/static/media/dl_cv.af23f69efa3c3cd96f632e1ed3f63658.svg",
     "index.html": "/powpfv1/index.html",
     "static/media/pjlogo_svg.svg": "/powpfv1/static/media/pjlogo_svg.f2ee8f7816986c2feb11.svg",
     "static/media/landing_abtme.svg": "/powpfv1/static/media/landing_abtme.d0ae7904ce5b6c229e16.svg",
     "static/media/loaderbg.svg": "/powpfv1/static/media/loaderbg.ecd64540ef796af578bc.svg",
     "static/media/socialsbg.svg": "/powpfv1/static/media/socialsbg.cb1ff0f2e204b2e5bf14c469b2a85f81.svg",
-    "main.42e5f184.css.map": "/powpfv1/static/css/main.42e5f184.css.map",
-    "main.bc2c2ad6.js.map": "/powpfv1/static/js/main.bc2c2ad6.js.map"
+    "main.a18bf719.css.map": "/powpfv1/static/css/main.a18bf719.css.map",
+    "main.e8eb47c4.js.map": "/powpfv1/static/js/main.e8eb47c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.42e5f184.css",
-    "static/js/main.bc2c2ad6.js"
+    "static/css/main.a18bf719.css",
+    "static/js/main.e8eb47c4.js"
   ]
 }
